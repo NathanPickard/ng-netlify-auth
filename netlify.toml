@@ -1,0 +1,3 @@
+[build]
+  publish = "dist/ng-netlify-auth"
+  command = "ng build --prod"
